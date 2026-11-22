@@ -23,22 +23,15 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👋 About Me
 
-```js
-const suraj = {
-  role: "Full Stack MERN Developer",
-  education: "MCA — RGPV, Bhopal",
-  location: "Gwalior, Madhya Pradesh 🇮🇳",
-  experience: "1+ year (Internship @ PN Infosys)",
-  focus: [
-    "Scalable & responsive web apps",
-    "Secure authentication (JWT, RBAC, Google Sign-In)",
-    "Payment gateway integration (Razorpay)",
-    "Admin dashboards with full CRUD",
-  ],
-  currentlyExploring: "AI integrations with Gemini API ✨",
-  motto: "Write clean code. Build things people actually use.",
-};
-```
+- 🚀 **Full Stack MERN Developer** with 1+ year of hands-on internship experience at PN Infosys
+- 🎓 **MCA** from RGPV, Bhopal
+- 📍 Based in **Gwalior, Madhya Pradesh, India** 🇮🇳
+- 🛠️ I build **scalable & responsive web apps** with admin dashboards and full CRUD
+- 🔐 Experienced in **secure authentication** (JWT, RBAC, Google Sign-In)
+- 💳 Skilled in **payment gateway integration** (Razorpay)
+- 🤖 Currently exploring **AI integrations with the Gemini API** ✨
+- 📫 Reach me at **surajarya460@gmail.com**
+- 💬 *"Write clean code. Build things people actually use."*
 
 <br/>
 
